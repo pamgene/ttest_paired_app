@@ -55,7 +55,7 @@
   ],
   "url": {
     "kind": "Url",
-    "uri": "https://github.com/tercen/ttest_paired_app"
+    "uri": "https://github.com/pamgene/ttest_paired_app"
   },
   "version": "0.0.5",
   "authors": [],
@@ -343,7 +343,7 @@
           "operatorRef": {
             "kind": "OperatorRef",
             "name": "t Test",
-            "version": "1.1.0",
+            "version": "1.1.1",
             "operatorId": "e50efaa75416f1b61950d47b86216abc",
             "operatorKind": "DockerOperator",
             "propertyValues": [
@@ -381,6 +381,11 @@
                 "kind": "PropertyValue",
                 "name": "detailed",
                 "value": "true"
+              },
+              {
+                "kind": "PropertyValue",
+                "name": "reference_index",
+                "value": "2"
               }
             ],
             "url": {
