@@ -2,10 +2,10 @@
 
 ##### Description
 
-`ttest_app`, T-test paired application determines if there is a significant difference between the means of two groups. It performs Student's t-test on the data.
+The T-test paired app determines if there is a significant difference between the means of two groups of paired samples. It performs Student's t-test on the data.
 
 ##### Details
-The input data should be log / VSN transformed.
+The input data should be log or VSN transformed.
 
 The workflow has 2 operators:
 
