@@ -16,6 +16,7 @@ T_test operator settings:
 * detailed = True
 * var.equal = True
 * paired = True
+* reference index = 2 --> the group with starting letter earlier in the alphabet will be the reference / control group.
 
 Views:
 
